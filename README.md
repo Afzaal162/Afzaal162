@@ -80,11 +80,11 @@ React · Node.js · Express · PostgreSQL (Neon) · Clerk · Cloudinary · Verce
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afzaal162&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afzaal162&theme=tokyonight&hide_border=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Afzaal162&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Afzaal162&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzaal162&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzaal162&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
