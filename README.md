@@ -82,7 +82,7 @@ React · Node.js · PostgreSQL · Prisma
 Stability AI · Fal.ai · Cloudinary · Clerk
 ```
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://agi-eta-beige.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://agi-xo58.vercel.app/))
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Afzaal162/AGI)
 
 </td>
